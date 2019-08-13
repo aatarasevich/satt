@@ -1,0 +1,4 @@
+name: 'Ex From'
+description: 'Example Form Api Drupal 8'
+core: 8.x
+type: module
